@@ -1,0 +1,8 @@
+{
+    "name": "cryptonit",
+    "description": "API wrapper for https://cryptonit.net exchange",
+    "main": "index.js",
+    "dependencies": {
+        "request": "~2.30"
+    }
+}
